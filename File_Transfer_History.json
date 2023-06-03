@@ -1,0 +1,27 @@
+{
+  "file9638186928": {
+    "status": "Success",
+    "message": "File was transferred successfully to the internal network",
+    "filename": "Test0.txt"
+  },
+  "file24070527": {
+    "status": "Success",
+    "message": "File was transferred successfully to the internal network",
+    "filename": "Test1.txt"
+  },
+  "file3783429976": {
+    "status": "Success",
+    "message": "File was transferred successfully to the internal network",
+    "filename": "Test2.txt"
+  },
+  "file3226420483": {
+    "status": "Success",
+    "message": "File was transferred successfully to the internal network",
+    "filename": "Test3.txt"
+  },
+  "file4827634393": {
+    "status": "Success",
+    "message": "File was transferred successfully to the internal network",
+    "filename": "Test4.txt"
+  }
+}
